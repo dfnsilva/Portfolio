@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio.",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfnsilva/Portfolio.git"
+  },
+  "author": "Diogo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfnsilva/Portfolio/issues"
+  },
+  "homepage": "https://github.com/dfnsilva/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21"
+  }
+}
